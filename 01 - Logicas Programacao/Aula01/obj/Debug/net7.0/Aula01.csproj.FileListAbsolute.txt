@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\bin\Debug\net7.0\Aula01.exe
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\bin\Debug\net7.0\Aula01.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\bin\Debug\net7.0\Aula01.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\bin\Debug\net7.0\Aula01.dll
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\bin\Debug\net7.0\Aula01.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\obj\Debug\net7.0\Aula01.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\obj\Debug\net7.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\obj\Debug\net7.0\Aula01.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\obj\Debug\net7.0\Aula01.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\obj\Debug\net7.0\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\obj\Debug\net7.0\Aula01.dll
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\obj\Debug\net7.0\refint\Aula01.dll
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\obj\Debug\net7.0\Aula01.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\obj\Debug\net7.0\Aula01.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\Aula01\obj\Debug\net7.0\ref\Aula01.dll
