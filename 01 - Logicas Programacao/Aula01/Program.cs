@@ -4,11 +4,6 @@
     {
         static void Main(string[] args)
         {
-            //int filhos = (int) 3.0; // Casting
-            //Console.WriteLine("Hello, World!");
-            //Console.WriteLine($"Caramba, voce tem {filhos} filhos?");
-            //Console.WriteLine("");
-
             int n1, n2, res;
             float resFloat;
 
