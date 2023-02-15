@@ -26,6 +26,11 @@ namespace Aula02
                 Console.WriteLine("Voce nao tem idade para jogar!!");
             }
 
+
+            /* Operadores Aritmeticos | Relacionais | logicos
+             * Aritmeticos: (/) Divisao, (*) Multiplicacao, Soma e Subtracao  
+
+            */
         }
     }
 }
