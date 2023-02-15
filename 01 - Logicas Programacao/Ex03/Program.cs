@@ -20,9 +20,9 @@
             Console.Write("Digite a terceira Nota: ");
             float.TryParse(Console.ReadLine(), out nota03);
 
-            media = Convert.ToDouble((nota01 + nota02 + nota03) / 3);
+            media = Convert.ToDouble((nota01 + nota02 + nota03) / 3);       //Calculo da media das 3 notas do Aluno
 
-            Console.Write($"Media: {Math.Round(media, 1)} - ");
+            Console.Write($"Media: {Math.Round(media, 1)} - ");             // Mostra no terminal a nota do aluno, limitando as casas decimais em 1
 
             if (media >= 7)
             {
