@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\bin\Debug\net7.0\A03_Ex04.exe
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\bin\Debug\net7.0\A03_Ex04.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\bin\Debug\net7.0\A03_Ex04.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\bin\Debug\net7.0\A03_Ex04.dll
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\bin\Debug\net7.0\A03_Ex04.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\obj\Debug\net7.0\A03_Ex04.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\obj\Debug\net7.0\A03_Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\obj\Debug\net7.0\A03_Ex04.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\obj\Debug\net7.0\A03_Ex04.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\obj\Debug\net7.0\A03_Ex04.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\obj\Debug\net7.0\A03_Ex04.dll
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\obj\Debug\net7.0\refint\A03_Ex04.dll
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\obj\Debug\net7.0\A03_Ex04.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\obj\Debug\net7.0\A03_Ex04.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP CSharp\01 - Logicas Programacao\A03_Ex04\obj\Debug\net7.0\ref\A03_Ex04.dll
