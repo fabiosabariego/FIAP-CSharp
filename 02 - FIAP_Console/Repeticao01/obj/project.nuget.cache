@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qx4YvIqVFZIVkxRU62fHbumFF1pYg8BAaIktRAk1O9z2iC56ui70xVuhP+ecA/rEFFF4ySyE/6OeaxxQPwhgKA==",
+  "dgSpecHash": "j10MTsdyqZgwxCD6PZQSEVQjfxs+9cgMPPW2vi3UOODwNeEQBb90K8KVG3VQFKMqoRDB1Xx+cCJbIpOIzQ1WFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\Repeticao01\\Repeticao01.csproj",
+  "projectFilePath": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\Repeticao01\\Tabuada.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

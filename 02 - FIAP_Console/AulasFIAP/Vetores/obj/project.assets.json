@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\Repeticao01\\Tabuada.csproj",
-      "projectName": "Tabuada",
-      "projectPath": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\Repeticao01\\Tabuada.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\AulasFIAP\\Vetores\\Vetores.csproj",
+      "projectName": "Vetores",
+      "projectPath": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\AulasFIAP\\Vetores\\Vetores.csproj",
       "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\Repeticao01\\obj\\",
+      "outputPath": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\AulasFIAP\\Vetores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
