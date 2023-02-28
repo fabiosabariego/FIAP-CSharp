@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\bin\Debug\net6.0\SomatoriaNumeros.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\bin\Debug\net6.0\SomatoriaNumeros.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\bin\Debug\net6.0\SomatoriaNumeros.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\bin\Debug\net6.0\SomatoriaNumeros.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\bin\Debug\net6.0\SomatoriaNumeros.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\obj\Debug\net6.0\SomatoriaNumeros.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\obj\Debug\net6.0\SomatoriaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\obj\Debug\net6.0\SomatoriaNumeros.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\obj\Debug\net6.0\SomatoriaNumeros.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\obj\Debug\net6.0\SomatoriaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\obj\Debug\net6.0\SomatoriaNumeros.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\obj\Debug\net6.0\refint\SomatoriaNumeros.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\obj\Debug\net6.0\SomatoriaNumeros.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\obj\Debug\net6.0\SomatoriaNumeros.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\SomatoriaNumeros\obj\Debug\net6.0\ref\SomatoriaNumeros.dll

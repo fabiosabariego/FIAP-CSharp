@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\bin\Debug\net6.0\Tabuada.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\bin\Debug\net6.0\Tabuada.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\bin\Debug\net6.0\Tabuada.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\bin\Debug\net6.0\Tabuada.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\bin\Debug\net6.0\Tabuada.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\obj\Debug\net6.0\Tabuada.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\obj\Debug\net6.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\obj\Debug\net6.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\obj\Debug\net6.0\Tabuada.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\obj\Debug\net6.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\obj\Debug\net6.0\Tabuada.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\obj\Debug\net6.0\refint\Tabuada.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\obj\Debug\net6.0\Tabuada.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\obj\Debug\net6.0\Tabuada.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Repeticao01\obj\Debug\net6.0\ref\Tabuada.dll

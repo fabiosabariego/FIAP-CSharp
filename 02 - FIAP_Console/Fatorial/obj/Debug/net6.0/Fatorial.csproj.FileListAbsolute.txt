@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\bin\Debug\net6.0\Fatorial.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\bin\Debug\net6.0\Fatorial.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\bin\Debug\net6.0\Fatorial.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\bin\Debug\net6.0\Fatorial.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\bin\Debug\net6.0\Fatorial.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\obj\Debug\net6.0\Fatorial.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\obj\Debug\net6.0\Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\obj\Debug\net6.0\Fatorial.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\obj\Debug\net6.0\Fatorial.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\obj\Debug\net6.0\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\obj\Debug\net6.0\Fatorial.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\obj\Debug\net6.0\refint\Fatorial.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\obj\Debug\net6.0\Fatorial.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\obj\Debug\net6.0\Fatorial.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\Fatorial\obj\Debug\net6.0\ref\Fatorial.dll
