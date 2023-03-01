@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\AulasFIAP\\Vetores\\Arrays.csproj",
-      "projectName": "Arrays",
-      "projectPath": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\AulasFIAP\\Vetores\\Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\AulasFIAP\\LerElementosA_B\\LerElementosA_B.csproj",
+      "projectName": "LerElementosA_B",
+      "projectPath": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\AulasFIAP\\LerElementosA_B\\LerElementosA_B.csproj",
       "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\AulasFIAP\\Vetores\\obj\\",
+      "outputPath": "C:\\Users\\Fabio\\Documents\\GitHub\\FIAP-CSharp\\02 - FIAP_Console\\AulasFIAP\\LerElementosA_B\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

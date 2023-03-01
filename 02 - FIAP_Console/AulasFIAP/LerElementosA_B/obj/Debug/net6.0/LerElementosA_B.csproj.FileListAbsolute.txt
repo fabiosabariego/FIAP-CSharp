@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\bin\Debug\net6.0\LerElementosA_B.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\bin\Debug\net6.0\LerElementosA_B.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\bin\Debug\net6.0\LerElementosA_B.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\bin\Debug\net6.0\LerElementosA_B.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\bin\Debug\net6.0\LerElementosA_B.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\obj\Debug\net6.0\LerElementosA_B.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\obj\Debug\net6.0\LerElementosA_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\obj\Debug\net6.0\LerElementosA_B.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\obj\Debug\net6.0\LerElementosA_B.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\obj\Debug\net6.0\LerElementosA_B.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\obj\Debug\net6.0\LerElementosA_B.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\obj\Debug\net6.0\refint\LerElementosA_B.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\obj\Debug\net6.0\LerElementosA_B.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\obj\Debug\net6.0\LerElementosA_B.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\LerElementosA_B\obj\Debug\net6.0\ref\LerElementosA_B.dll
