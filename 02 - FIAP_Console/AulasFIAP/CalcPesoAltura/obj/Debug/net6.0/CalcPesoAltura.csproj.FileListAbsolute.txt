@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\bin\Debug\net6.0\CalcPesoAltura.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\bin\Debug\net6.0\CalcPesoAltura.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\bin\Debug\net6.0\CalcPesoAltura.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\bin\Debug\net6.0\CalcPesoAltura.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\bin\Debug\net6.0\CalcPesoAltura.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\obj\Debug\net6.0\CalcPesoAltura.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\obj\Debug\net6.0\CalcPesoAltura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\obj\Debug\net6.0\CalcPesoAltura.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\obj\Debug\net6.0\CalcPesoAltura.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\obj\Debug\net6.0\CalcPesoAltura.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\obj\Debug\net6.0\CalcPesoAltura.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\obj\Debug\net6.0\refint\CalcPesoAltura.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\obj\Debug\net6.0\CalcPesoAltura.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\obj\Debug\net6.0\CalcPesoAltura.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcPesoAltura\obj\Debug\net6.0\ref\CalcPesoAltura.dll

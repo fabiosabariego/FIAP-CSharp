@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\bin\Debug\net6.0\ValorVenda.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\bin\Debug\net6.0\ValorVenda.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\bin\Debug\net6.0\ValorVenda.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\bin\Debug\net6.0\ValorVenda.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\bin\Debug\net6.0\ValorVenda.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\obj\Debug\net6.0\ValorVenda.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\obj\Debug\net6.0\ValorVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\obj\Debug\net6.0\ValorVenda.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\obj\Debug\net6.0\ValorVenda.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\obj\Debug\net6.0\ValorVenda.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\obj\Debug\net6.0\ValorVenda.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\obj\Debug\net6.0\refint\ValorVenda.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\obj\Debug\net6.0\ValorVenda.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\obj\Debug\net6.0\ValorVenda.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValorVenda\obj\Debug\net6.0\ref\ValorVenda.dll
