@@ -5,7 +5,6 @@
         static void Main(string[] args)
         {
             lerTemp();
-
         }
 
         public static void lerTemp()

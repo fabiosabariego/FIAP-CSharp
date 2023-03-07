@@ -31,13 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcPesoAltura", "CalcPesoA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValorVenda", "ValorVenda\ValorVenda.csproj", "{F557004B-9E14-410A-8D05-F99BDE5D1996}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 - Funcoes", "07 - Funcoes", "{A6637785-18CD-4C40-BBAF-A615A6C949B2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 - Funcoes Argumentos", "07 - Funcoes Argumentos", "{A6637785-18CD-4C40-BBAF-A615A6C949B2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", "{20B45898-80BF-4301-AEC8-46C5E732174D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolTemp", "SolTemp\SolTemp.csproj", "{3865AC3E-0E34-4024-AC5B-11255C18F354}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcBaseExpoente", "CalcBaseExpoente\CalcBaseExpoente.csproj", "{AFDD34FE-A5FA-4D82-819E-CD9C2FB8FFCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08 - Metodos Return", "08 - Metodos Return", "{533AE2DE-0B3E-4D48-9B4B-E338FAFB7CA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
