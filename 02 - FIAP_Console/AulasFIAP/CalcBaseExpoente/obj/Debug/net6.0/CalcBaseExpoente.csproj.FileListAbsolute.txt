@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\bin\Debug\net6.0\CalcBaseExpoente.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\bin\Debug\net6.0\CalcBaseExpoente.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\bin\Debug\net6.0\CalcBaseExpoente.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\bin\Debug\net6.0\CalcBaseExpoente.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\bin\Debug\net6.0\CalcBaseExpoente.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\obj\Debug\net6.0\CalcBaseExpoente.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\obj\Debug\net6.0\CalcBaseExpoente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\obj\Debug\net6.0\CalcBaseExpoente.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\obj\Debug\net6.0\CalcBaseExpoente.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\obj\Debug\net6.0\CalcBaseExpoente.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\obj\Debug\net6.0\CalcBaseExpoente.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\obj\Debug\net6.0\refint\CalcBaseExpoente.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\obj\Debug\net6.0\CalcBaseExpoente.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\obj\Debug\net6.0\CalcBaseExpoente.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\CalcBaseExpoente\obj\Debug\net6.0\ref\CalcBaseExpoente.dll
