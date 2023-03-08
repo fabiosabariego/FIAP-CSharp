@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\bin\Debug\net6.0\GrausCelsiusReturn.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\bin\Debug\net6.0\GrausCelsiusReturn.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\bin\Debug\net6.0\GrausCelsiusReturn.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\bin\Debug\net6.0\GrausCelsiusReturn.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\bin\Debug\net6.0\GrausCelsiusReturn.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\obj\Debug\net6.0\GrausCelsiusReturn.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\obj\Debug\net6.0\GrausCelsiusReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\obj\Debug\net6.0\GrausCelsiusReturn.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\obj\Debug\net6.0\GrausCelsiusReturn.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\obj\Debug\net6.0\GrausCelsiusReturn.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\obj\Debug\net6.0\GrausCelsiusReturn.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\obj\Debug\net6.0\refint\GrausCelsiusReturn.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\obj\Debug\net6.0\GrausCelsiusReturn.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\obj\Debug\net6.0\GrausCelsiusReturn.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\GrausCelsiusReturn\obj\Debug\net6.0\ref\GrausCelsiusReturn.dll

@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\bin\Debug\net6.0\ValidaLogin.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\bin\Debug\net6.0\ValidaLogin.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\bin\Debug\net6.0\ValidaLogin.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\bin\Debug\net6.0\ValidaLogin.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\bin\Debug\net6.0\ValidaLogin.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\obj\Debug\net6.0\ValidaLogin.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\obj\Debug\net6.0\ValidaLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\obj\Debug\net6.0\ValidaLogin.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\obj\Debug\net6.0\ValidaLogin.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\obj\Debug\net6.0\ValidaLogin.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\obj\Debug\net6.0\ValidaLogin.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\obj\Debug\net6.0\refint\ValidaLogin.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\obj\Debug\net6.0\ValidaLogin.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\obj\Debug\net6.0\ValidaLogin.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\ValidaLogin\obj\Debug\net6.0\ref\ValidaLogin.dll

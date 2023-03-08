@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\bin\Debug\net6.0\NatacaoApp.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\bin\Debug\net6.0\NatacaoApp.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\bin\Debug\net6.0\NatacaoApp.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\bin\Debug\net6.0\NatacaoApp.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\bin\Debug\net6.0\NatacaoApp.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\obj\Debug\net6.0\NatacaoApp.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\obj\Debug\net6.0\NatacaoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\obj\Debug\net6.0\NatacaoApp.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\obj\Debug\net6.0\NatacaoApp.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\obj\Debug\net6.0\NatacaoApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\obj\Debug\net6.0\NatacaoApp.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\obj\Debug\net6.0\refint\NatacaoApp.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\obj\Debug\net6.0\NatacaoApp.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\obj\Debug\net6.0\NatacaoApp.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\NatacaoApp\obj\Debug\net6.0\ref\NatacaoApp.dll

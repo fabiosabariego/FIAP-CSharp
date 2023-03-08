@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\bin\Debug\net6.0\SolReajusteReturn.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\bin\Debug\net6.0\SolReajusteReturn.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\bin\Debug\net6.0\SolReajusteReturn.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\bin\Debug\net6.0\SolReajusteReturn.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\bin\Debug\net6.0\SolReajusteReturn.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\obj\Debug\net6.0\SolReajusteReturn.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\obj\Debug\net6.0\SolReajusteReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\obj\Debug\net6.0\SolReajusteReturn.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\obj\Debug\net6.0\SolReajusteReturn.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\obj\Debug\net6.0\SolReajusteReturn.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\obj\Debug\net6.0\SolReajusteReturn.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\obj\Debug\net6.0\refint\SolReajusteReturn.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\obj\Debug\net6.0\SolReajusteReturn.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\obj\Debug\net6.0\SolReajusteReturn.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\SolReajusteReturn\obj\Debug\net6.0\ref\SolReajusteReturn.dll
