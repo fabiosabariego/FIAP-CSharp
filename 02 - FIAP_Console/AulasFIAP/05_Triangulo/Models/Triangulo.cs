@@ -31,7 +31,10 @@ namespace _05_Triangulo.Models
                 {
                     return "Equilatero";
                 }
-                if()
+                else
+                {
+                    return "Outro";
+                }
             }
         }
 

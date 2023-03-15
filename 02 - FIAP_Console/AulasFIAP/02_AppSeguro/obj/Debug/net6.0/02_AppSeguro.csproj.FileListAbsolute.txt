@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\bin\Debug\net6.0\02_AppSeguro.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\bin\Debug\net6.0\02_AppSeguro.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\bin\Debug\net6.0\02_AppSeguro.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\bin\Debug\net6.0\02_AppSeguro.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\bin\Debug\net6.0\02_AppSeguro.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\obj\Debug\net6.0\02_AppSeguro.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\obj\Debug\net6.0\02_AppSeguro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\obj\Debug\net6.0\02_AppSeguro.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\obj\Debug\net6.0\02_AppSeguro.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\obj\Debug\net6.0\02_AppSeguro.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\obj\Debug\net6.0\02_AppSeguro.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\obj\Debug\net6.0\refint\02_AppSeguro.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\obj\Debug\net6.0\02_AppSeguro.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\obj\Debug\net6.0\02_AppSeguro.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\02_AppSeguro\obj\Debug\net6.0\ref\02_AppSeguro.dll
