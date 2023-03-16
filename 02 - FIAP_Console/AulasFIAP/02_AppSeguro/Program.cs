@@ -1,4 +1,6 @@
 ﻿using _02_AppSeguro.Models;
+using System.Reflection.PortableExecutable;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace _02_AppSeguro
 {
@@ -6,13 +8,19 @@ namespace _02_AppSeguro
     {
         static void Main(string[] args)
         {
-            Seguro seguro = new Seguro();
+            double valorAuto;
+            Pessoa pessoas = new Pessoa();
+
+            Console.Write("Informe o valor do veiculo: ");
+            valorAuto = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Informe sua Idade: ");
-            seguro.Pessoas.Idade = Convert.ToInt32(Console.ReadLine());
+            pessoas.Idade = Convert.ToInt16(Console.ReadLine());
 
             Console.Write("Informe seu Sexo [M/F]: ");
-            seguro.Pessoas.Sexo = Console.ReadLine().ToUpper();
+            pessoas.Sexo = Console.ReadLine().ToUpper();
+
+            Seguro seguro = new Seguro(pessoas, valorAuto);
 
             Console.WriteLine($"O valor do seguro: {seguro.CalcularSeguro()}");
         }

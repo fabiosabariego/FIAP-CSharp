@@ -12,20 +12,25 @@ namespace _02_AppSeguro.Models
         public double ValorAuto { get; set; }
         public Pessoa Pessoas { get; set; }
 
+        public Seguro(Pessoa pessoas, double valorAuto)
+        {
+            this.Pessoas = pessoas;
+            this.ValorAuto = valorAuto;
+        }
 
         public double CalcularSeguro()
         {
-            if (Pessoas.Sexo.Equals("M") && Pessoas.Idade < 24)
+            if (Pessoas.Sexo == "M" && Pessoas.Idade < 24)
             {
-                return Math.Round((ValorAuto * 1.20), 2);
+                return Math.Round((ValorAuto * 0.20), 2);
             }
-            else if (Pessoas.Sexo.Equals("F"))
+            else if (Pessoas.Sexo == "F")
             {
-                return Math.Round((ValorAuto * 1.05), 2);
+                return Math.Round((ValorAuto * 0.05), 2);
             }
             else
             {
-                return Math.Round((ValorAuto * 1.10), 2);
+                return Math.Round((ValorAuto * 0.10), 2);
             }
         }
     }
