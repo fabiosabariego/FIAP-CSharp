@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\bin\Debug\net6.0\03_Veiculos.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\bin\Debug\net6.0\03_Veiculos.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\bin\Debug\net6.0\03_Veiculos.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\bin\Debug\net6.0\03_Veiculos.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\bin\Debug\net6.0\03_Veiculos.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\obj\Debug\net6.0\03_Veiculos.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\obj\Debug\net6.0\03_Veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\obj\Debug\net6.0\03_Veiculos.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\obj\Debug\net6.0\03_Veiculos.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\obj\Debug\net6.0\03_Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\obj\Debug\net6.0\03_Veiculos.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\obj\Debug\net6.0\refint\03_Veiculos.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\obj\Debug\net6.0\03_Veiculos.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\obj\Debug\net6.0\03_Veiculos.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\03_Veiculos\obj\Debug\net6.0\ref\03_Veiculos.dll

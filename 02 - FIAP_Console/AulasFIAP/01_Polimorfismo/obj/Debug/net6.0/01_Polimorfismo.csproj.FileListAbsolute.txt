@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\bin\Debug\net6.0\01_Polimorfismo.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\bin\Debug\net6.0\01_Polimorfismo.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\bin\Debug\net6.0\01_Polimorfismo.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\bin\Debug\net6.0\01_Polimorfismo.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\bin\Debug\net6.0\01_Polimorfismo.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\obj\Debug\net6.0\01_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\obj\Debug\net6.0\01_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\obj\Debug\net6.0\01_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\obj\Debug\net6.0\01_Polimorfismo.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\obj\Debug\net6.0\01_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\obj\Debug\net6.0\01_Polimorfismo.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\obj\Debug\net6.0\refint\01_Polimorfismo.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\obj\Debug\net6.0\01_Polimorfismo.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\obj\Debug\net6.0\01_Polimorfismo.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Polimorfismo\obj\Debug\net6.0\ref\01_Polimorfismo.dll

@@ -81,9 +81,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_LivroEbook", "02_LivroEb
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Polimorfismo", "05 - Polimorfismo", "{4613250C-559E-46BD-B11F-F1AE56E7E7F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Polimorfismo", "01_Polimorfismo\01_Polimorfismo.csproj", "{1B66351B-7052-42B9-8B0D-FCC9B65AFEF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Polimorfismo", "01_Polimorfismo\01_Polimorfismo.csproj", "{1B66351B-7052-42B9-8B0D-FCC9B65AFEF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Veiculos", "03_Veiculos\03_Veiculos.csproj", "{D0E8A36A-882B-48C7-B6B8-CCD9BE8FD9A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Veiculos", "03_Veiculos\03_Veiculos.csproj", "{D0E8A36A-882B-48C7-B6B8-CCD9BE8FD9A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Enumerator", "02_Enumerator\02_Enumerator.csproj", "{23E2FD28-67DA-4264-81EA-AFA248140CB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{D0E8A36A-882B-48C7-B6B8-CCD9BE8FD9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0E8A36A-882B-48C7-B6B8-CCD9BE8FD9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0E8A36A-882B-48C7-B6B8-CCD9BE8FD9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E2FD28-67DA-4264-81EA-AFA248140CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E2FD28-67DA-4264-81EA-AFA248140CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E2FD28-67DA-4264-81EA-AFA248140CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E2FD28-67DA-4264-81EA-AFA248140CB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -251,6 +257,7 @@ Global
 		{4613250C-559E-46BD-B11F-F1AE56E7E7F9} = {EE3EC30C-A37A-48BE-91A2-2CBE6702F83F}
 		{1B66351B-7052-42B9-8B0D-FCC9B65AFEF8} = {4613250C-559E-46BD-B11F-F1AE56E7E7F9}
 		{D0E8A36A-882B-48C7-B6B8-CCD9BE8FD9A5} = {EB5036A5-CAFA-4000-A610-DB5BEBB9E5BC}
+		{23E2FD28-67DA-4264-81EA-AFA248140CB2} = {4613250C-559E-46BD-B11F-F1AE56E7E7F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C81A783E-8572-4275-9E04-D509C068522F}
