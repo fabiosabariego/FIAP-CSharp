@@ -9,7 +9,6 @@ namespace _02_Enumerator
             Funcionario func = new Funcionario("Fabio");
             func.EstadoCivil = Enums.EstadoCivilEnum.Casado;
 
-            
         }
     }
 }
