@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\obj\Debug\net6.0\01_Listas.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\obj\Debug\net6.0\01_Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\obj\Debug\net6.0\01_Listas.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\obj\Debug\net6.0\01_Listas.AssemblyInfo.cs
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\obj\Debug\net6.0\01_Listas.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\bin\Debug\net6.0\01_Listas.exe
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\bin\Debug\net6.0\01_Listas.deps.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\bin\Debug\net6.0\01_Listas.runtimeconfig.json
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\bin\Debug\net6.0\01_Listas.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\bin\Debug\net6.0\01_Listas.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\obj\Debug\net6.0\01_Listas.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\obj\Debug\net6.0\refint\01_Listas.dll
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\obj\Debug\net6.0\01_Listas.pdb
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\obj\Debug\net6.0\01_Listas.genruntimeconfig.cache
+C:\Users\Fabio\Documents\GitHub\FIAP-CSharp\02 - FIAP_Console\AulasFIAP\01_Listas\obj\Debug\net6.0\ref\01_Listas.dll
